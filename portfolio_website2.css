@@ -1,0 +1,28 @@
+/*Header*/
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 50px
+  margin-left:auto;
+  vertical-align: super;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/*Image*/
+img.profile {
+  style: width:150px; height:225px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a img {
+  style: width 2em; height:2em;
+}
+
+a img:hover {
+  opacity: .75;
+}
